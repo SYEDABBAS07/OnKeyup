@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    
+}
+body{
+    background-image: linear-gradient(to right,rgb(27, 65, 203),rgb(217, 11, 235));
+}
+input{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 30px;
+    outline: none;
+    cursor: pointer;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    cursor: pointer;
+
+}
+h1:hover{
+    color: white;
+}
